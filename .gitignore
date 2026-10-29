@@ -1,0 +1,42 @@
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# ROS 2 generated workspace files
+build/
+install/
+log/
+
+# Generated output
+annotated_sitl_video.mp4
+detection_telemetry.jsonl
+*.log
+
+# Input videos and datasets
+*.mp4
+*.avi
+*.mov
+datasets/
+data/
+
+# Model weights (publish separately if needed)
+models/*.onnx
+*.pt
+*.pth
+*.engine
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
