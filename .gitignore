@@ -40,3 +40,16 @@ models/*.onnx
 .idea/
 .DS_Store
 
+
+# ROS workspace generated files
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# Backup files
+*.backup
+*.before_sahi
