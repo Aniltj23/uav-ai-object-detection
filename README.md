@@ -1,4 +1,4 @@
-# UAV AI Advanced Object Detection and Tracking System
+# UAV AI Object Detection and Tracking System
 
 A simulation-based UAV perception project integrating **ROS 2 Jazzy,
 ArduPilot SITL, YOLO, BoT-SORT, and MAVLink telemetry** to detect
