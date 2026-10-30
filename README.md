@@ -304,8 +304,6 @@ Before starting:
     executable names and parameters defined by the package.
 
 
-Open the local address printed by Streamlit in your browser.
-
 **Important:** Exact ROS 2 executable names, launch commands, and
 parameters depend on the current implementation. Use
 the package configuration as the source of truth
@@ -426,7 +424,6 @@ technologies:
 -   [ArduPilot](https://github.com/ArduPilot/ardupilot)
 -   [ROS 2](https://github.com/ros2)
 -   [OpenCV](https://github.com/opencv/opencv)
--   [Streamlit](https://github.com/streamlit/streamlit)
 
 ------------------------------------------------------------------------
 
